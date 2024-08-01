@@ -68,7 +68,7 @@ _An early walkthrough of a virtual reconstruction of Providence's Chinatown in 1
 
 ## Seeing Providence Chinatown
 
-This research guide comes out of initial work in [Seeing Providence Chinatown](https://unterbahn.com/chinatown), inspired by the excellent [RI Chinese History Project](https://richinesehistory.com/) *![external link](../images/external-link.gif)*, by Angela Yuanuan Feng, Julieanne Fontana, John Eng-Wong, and others at Brown University's [Center for Public Humanities and Cultural Heritage](https://www.brown.edu/academics/public-humanities/home) *![external link](../images/external-link.gif)*. 
+This research guide comes out of initial work in [Seeing Providence Chinatown](https://unterbahn.com/chinatown), inspired by the excellent [RI Chinese History Project](https://richinesehistory.com/) *![external link](../images/external-link.gif)*, by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong, and others at Brown University's [Center for Public Humanities and Cultural Heritage](https://www.brown.edu/academics/public-humanities/home) *![external link](../images/external-link.gif)*. 
 
 In thinking about my approach in that project, I wrote:
 
