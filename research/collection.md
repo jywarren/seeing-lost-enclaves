@@ -21,13 +21,9 @@ As part of the first milestone of the _Seeing Lost Enclaves_ project, I've compi
 
 ## General:
 
-<cite>Sanborn Fire Insurance Map from Riverside, Riverside County, California</cite>. Sanborn Map Company, 1908. Map. https://www.loc.gov/item/sanborn00793_007/ (sanborn00793_007-master-gmd-gmd436m-g4364m-g4364rm-g4364rm_g007931908-00793_1908-0048.jpg)
-
 <cite>Six mile canyon from C Street, Virginia City</cite>. Virginia City, [Nevada], 1866. [Published ; Printed Later] Photograph published by Lawrence & Houseworth. https://www.loc.gov/item/2002719064/ (2002719064-master-pnp-ds-04400-04482u.jpg)
 
 Glover, E. S. <cite>View of Virginia City, Montana Ty., from Alder Gulch looking east</cite>. [Montana?: s.n, 1875] https://www.loc.gov/item/89691905/
-
-<cite>Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island</cite>. Sanborn Map Company, 1905. Map. https://www.loc.gov/item/sanborn08099_006/ (sanborn08099_006-master-gmd-gmd377m-g3774m-g3774pm-g3774pm_g080991904-08099_1904-cbd1.jpg)
 
 <cite>Chinese children in Olympia, Wash</cite>. , ca. 1919. Stereograph published by Keystone View Co. Library of Congress, Prints  & Photographs Division. https://www.loc.gov/item/2004670938/ (2004670938-master-pnp-cph-3b10000-3b16000-3b16200-3b16236u.jpg)
 
