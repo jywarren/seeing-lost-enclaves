@@ -93,6 +93,17 @@ Pillsbury Picture Co., Copyright Claimant. <cite>Riverside from Mt. Rubidoux</ci
 California Panorama Co., Copyright Claimant. <cite>Birdeye, Riverside, California</cite>. Riverside United States California, ca. 1908. Photograph. https://www.loc.gov/item/2007660463/.
 
 
+## Portland:
+
+<cite>Sanborn Fire Insurance Map from Portland, Multnomah County, Oregon</cite>. Sanborn Map Company, Vol. 1, 1889. Map. https://www.loc.gov/item/sanborn07439_001/
+
+<cite>Sanborn Fire Insurance Map from Portland, Multnomah County, Oregon</cite>. Sanborn Map Company, Vol. 1, 1901. Map. https://www.loc.gov/item/sanborn07439_003/
+
+<cite>Bird's-eye view of Portland, Oregon with Mt. St. Helens in background</cite>. Portland Oregon Mount Saint Helens Washington, ca. 1903. Photograph. https://www.loc.gov/item/91719502/.
+
+<cite>Bird's-eye view of Portland, Oregon, with Mt. Hood in the background</cite>. Hood Oregon Portland Mount, ca. 1927. Photograph. https://www.loc.gov/item/93510135/.
+
+
 ## Truckee:
 
 <cite>Sanborn Fire Insurance Map from Truckee, Nevada County, California</cite>. Sanborn Map Company, Jan, 1885. Map. https://www.loc.gov/item/sanborn00895_001/ (sanborn00895_001-master-gmd-gmd436m-g4364m-g4364tm-g4364tm_g008951885-00895_1885-0001.jpg)
