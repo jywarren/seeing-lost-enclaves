@@ -10,8 +10,10 @@ As part of the first milestone of the _Seeing Lost Enclaves_ project, I've compi
 * [General - videos](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/general-videos.zip) (77.1MB)
 * [Deadwood](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/deadwood.zip) (28.5MB)
 * [New Orleans](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/new-orleans.zip) (60.3MB)
+* [Hanford](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/hanford.zip) (29.3MB)
+* [Portland](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/portland.zip) (32.3MB)
 * [Providence](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/providence.zip) (40.1MB)
-* [Providence](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/riverside.zip) (30MB)
+* [Riverside](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/riverside.zip) (30MB)
 * [Truckee](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/truckee.zip) (14MB)
 
 ## Contents
@@ -54,6 +56,17 @@ Thomas A. Edison, Inc, and  Kleine. <cite>San Francisco Chinese funeral</cite>. 
 <cite>Hose team. The champion Chinese Hose Team of America, who won the great Hub-and-Hub race at Deadwood, Dak., July 4th</cite>. Deadwood, South Dakota, 1888. Photograph by Grabill, John C. H. Library of Congress, Prints & Photographs Division. https://www.loc.gov/item/99613961/ (99613961-master-pnp-ppmsc-02600-02679u.jpg)
 
 
+## Hanford:
+
+<cite>Sanborn Fire Insurance Map from Hanford, Kings County, California</cite>. Sanborn Map Company, Apr, 1892. Map. Retrieved from the Library of Congress, https://www.loc.gov/item/sanborn00584_004/
+
+<cite>Sanborn Fire Insurance Map from Hanford, Kings County, California</cite>. Sanborn Map Company, May, 1898. Map. https://www.loc.gov/item/sanborn00584_005/
+
+<cite>Sanborn Fire Insurance Map from Hanford, Kings County, California</cite>. Sanborn Map Company, Apr, 1905. Map. Retrieved from the Library of Congress, https://www.loc.gov/item/sanborn00584_006/
+
+<cite>Sanborn Fire Insurance Map from Hanford, Kings County, California</cite>. Sanborn Map Company, Apr, 1913. Map. Retrieved from the Library of Congress, https://www.loc.gov/item/sanborn00584_007/
+
+
 ## New Orleans:
 
 <cite>Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana</cite>. Sanborn Map Company, ; Vol. 2, 1885. Map. https://www.loc.gov/item/sanborn03376_002/ (sanborn03376_011-master-gmd-gmd401m-g4014m-g4014nm-g03376188502-03376_02_1885-0035R.jpg)
@@ -69,6 +82,17 @@ Historic American Buildings Survey, Creator, Koch, Richard, photographer. <cite>
 Historic American Buildings Survey, Creator, and Jean Baptiste Poeyfarre. <cite>Vieux Carre Squares, Poeyfarre House, 532 Bourbon Street, New Orleans, Orleans Parish, LA</cite>. New Orleans Louisiana Orleans Parish, 1933. Documentation Compiled After. Photograph. https://www.loc.gov/item/la0161/ (la0161-master-pnp-habshaer-la-la0100-la0161-data-la0161data.pdf, la0161-master-pnp-habshaer-la-la0100-la0161-supp-la0161supp.pdf)
 
 <cite>New Orleans downtown street. Louisiana</cite>. United States New Orleans Louisiana Orleans Parish, Dec. 1935. Photograph by Walker Evans. From the Farm Security Administration-Office of War Information photograph collection. Library of Congress, Prints & Photographs Division. https://www.loc.gov/item/2017759415/ (2017759415-master-pnp-fsa-8c52000-8c52100-8c52104u.jpg)
+
+
+## Portland:
+
+<cite>Sanborn Fire Insurance Map from Portland, Multnomah County, Oregon</cite>. Sanborn Map Company, Vol. 1, 1889. Map. https://www.loc.gov/item/sanborn07439_001/
+
+<cite>Sanborn Fire Insurance Map from Portland, Multnomah County, Oregon</cite>. Sanborn Map Company, Vol. 1, 1901. Map. https://www.loc.gov/item/sanborn07439_003/
+
+<cite>Bird's-eye view of Portland, Oregon with Mt. St. Helens in background</cite>. Portland Oregon Mount Saint Helens Washington, ca. 1903. Photograph. https://www.loc.gov/item/91719502/.
+
+<cite>Bird's-eye view of Portland, Oregon, with Mt. Hood in the background</cite>. Hood Oregon Portland Mount, ca. 1927. Photograph. https://www.loc.gov/item/93510135/.
 
 
 ## Providence:
@@ -91,17 +115,6 @@ California Panorama Co., Copyright Claimant. <cite>Panarama sic Riverside, Calif
 Pillsbury Picture Co., Copyright Claimant. <cite>Riverside from Mt. Rubidoux</cite>. Riverside United States California, ca. 1907. Photograph. https://www.loc.gov/item/2007660601/.
 
 California Panorama Co., Copyright Claimant. <cite>Birdeye, Riverside, California</cite>. Riverside United States California, ca. 1908. Photograph. https://www.loc.gov/item/2007660463/.
-
-
-## Portland:
-
-<cite>Sanborn Fire Insurance Map from Portland, Multnomah County, Oregon</cite>. Sanborn Map Company, Vol. 1, 1889. Map. https://www.loc.gov/item/sanborn07439_001/
-
-<cite>Sanborn Fire Insurance Map from Portland, Multnomah County, Oregon</cite>. Sanborn Map Company, Vol. 1, 1901. Map. https://www.loc.gov/item/sanborn07439_003/
-
-<cite>Bird's-eye view of Portland, Oregon with Mt. St. Helens in background</cite>. Portland Oregon Mount Saint Helens Washington, ca. 1903. Photograph. https://www.loc.gov/item/91719502/.
-
-<cite>Bird's-eye view of Portland, Oregon, with Mt. Hood in the background</cite>. Hood Oregon Portland Mount, ca. 1927. Photograph. https://www.loc.gov/item/93510135/.
 
 
 ## Truckee:
