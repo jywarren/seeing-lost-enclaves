@@ -100,7 +100,7 @@ As a part of my residency project, portals were also created in and around the L
 Use the links above to access the photospheres. However, if you are unable to use the photospheres, there are video recordings of each available as well:
 
 * Portland: https://youtu.be/IllUh_NuK4E 
-* Providence: https://youtu.be/HNxS6kIr4cY
+* Providence: https://youtu.be/Td1rlBuTEqI
 * Pachappa/Riverside: https://youtu.be/ITRJ17VTrwM
 * Hanford: https://youtu.be/lovDF7h-Qj8
 * Truckee: https://youtu.be/FJPr91qXCUw
