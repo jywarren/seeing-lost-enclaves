@@ -103,7 +103,7 @@ Use the links above to access the photospheres. However, if you are unable to us
 * Providence: https://youtu.be/HNxS6kIr4cY
 * Pachappa/Riverside: https://youtu.be/ITRJ17VTrwM
 * Hanford: https://youtu.be/lovDF7h-Qj8
-* Truckee: https://youtu.be/FgnavPmVvtQ 
+* Truckee: https://youtu.be/FJPr91qXCUw
 
 <style>
 
