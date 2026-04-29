@@ -96,6 +96,8 @@ let locations = [
   { name: 'hanford-test', lat: 34.09576763300175, lng: -118.30430354416602, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/hanford-ambient.mp3', narration: 'audio/hanford.mp3', description: "A tight row of brick buildings with tall, second-floor wood balconies lines a narrow dirt street as sunset approaches, interior lights beginning to shine from entryways. People are resting on benches outside a shop as the day ends, the street’s gravel warm from a hot summer’s day, and one man lovingly tinkers with the whitewalled tires of his bicycle. Others sit in the low sunlight on a bench behind a spreading young tree. Above, pigeons coo in the rafters, and beyond, a hint of mist begins to form among the dusty farmland."},
   { name: 'pachappa-test', lat: 33.744774, lng: -118.099632, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/riverside-ambient.mp3', narration: 'audio/riverside.mp3'},
   { name: 'together-shovel', lat: 41.81936438143308, lng: -71.40355381039224, url: 'viewer.html?url=spheres/shovel.jpg', audio: 'audio/together-shovel.mp3'},
+  
+  { name: 'riverside-chinatown', lat: 41.81936438143308, lng: -71.40355381039224, url: 'viewer.html?url=https://jeffreywarren.s3.us-east-1.amazonaws.com/photospheres/joss-house.jpg', audio: 'https://jeffreywarren.s3.us-east-1.amazonaws.com/photospheres/riverside-chinatown-ambient.mp3'},
 ];
 
 let links = {
