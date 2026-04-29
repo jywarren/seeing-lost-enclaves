@@ -97,7 +97,7 @@ let locations = [
   { name: 'pachappa-test', lat: 33.744774, lng: -118.099632, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/riverside-ambient.mp3', narration: 'audio/riverside.mp3'},
   { name: 'together-shovel', lat: 41.81936438143308, lng: -71.40355381039224, url: 'viewer.html?url=spheres/shovel.jpg', audio: 'audio/together-shovel.mp3'},
   
-  { name: 'riverside-chinatown', lat: 41.81936438143308, lng: -71.40355381039224, url: 'viewer.html?url=https://jeffreywarren.s3.us-east-1.amazonaws.com/photospheres/joss-house.jpg', audio: 'https://jeffreywarren.s3.us-east-1.amazonaws.com/photospheres/riverside-chinatown-ambient.mp3'},
+  { name: 'riverside-chinatown', lat: 33.976746242158306, lng: -117.38574886409161, url: 'viewer.html?url=https://jeffreywarren.s3.us-east-1.amazonaws.com/photospheres/joss-house.jpg', audio: 'https://jeffreywarren.s3.us-east-1.amazonaws.com/photospheres/riverside-chinatown-ambient.mp3'},
 ];
 
 let links = {
